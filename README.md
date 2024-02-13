@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
  <a href="mailto:tanbimawiragama@gmail.com">
   <img src="https://img.shields.io/badge/Email-tanbimawiragama%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
- <a href="https://timjames.dev/blog">
-  <img src="https://img.shields.io/badge/Blog-timjames.dev%2Fblog-006400?style=flat-square&logo=devdotto&logoColor=white">
+ <a href="">
+  <img src="https://img.shields.io/badge/Blog-tanbima.dev%2Fblog-006400?style=flat-square&logo=devdotto&logoColor=white">
  </a>
 </p>
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/tan-bima-wiragama "Credly")
 - 📫 How to reach me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "Tan Bima Wiragama") || [Instagram](https://www.instagram.com/tanbimawira/ "@tanbimawira")
 - 🗺️ Located in **Banten, Indonesia**
-- 📝 [Blog](https://dev.to/timwjames)
+- 📝 [Blog]()
 
 ### Github Statistic
 <p align="left">
