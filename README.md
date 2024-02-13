@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--- Profile README template created by Tim-W-James --->
 
-# 👋 Hi, I’m [Tim James](https://github.com/Tim-W-James)
+# 👋 Hi, I’m [Tan Bima Wiragama](https://github.com/Tim-W-James)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/timothy-william-james/">
@@ -25,8 +25,8 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💼 **Software Engineer** at [Agile Digital](https://github.com/agiledigital "Agile Digital Website")
 - 🎓 **Bachelor of Information Technology** at the [Australian National University](https://www.anu.edu.au/ "ANU")
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/timjames/badges "Credly")
-- 📫 How to reach me: [Email](mailto:tim.james.work9800@gmail.com "tim.james.work9800@gmail.com") || [LinkedIn](https://www.linkedin.com/in/timothy-william-james/ "timothy-william-james") || [Twitter](https://twitter.com/TimWJames "@TimWJames")
-- 🗺️ Located in **Canberra, Australia**
+- 📫 How to reach me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "tan-bima-wiragama") || [Twitter](https://twitter.com/TimWJames "@TimWJames")
+- 🗺️ Located in **Banten, Indonesia**
 - 📝 [Blog](https://dev.to/timwjames)
 
 ### Github Statistic
