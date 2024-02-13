@@ -5,14 +5,14 @@ You can click the Preview link to take a look at your changes.
 
 <!--- Profile README template created by Tim-W-James --->
 
-# 👋 Hi, I’m [Tan Bima Wiragama](https://github.com/Tim-W-James)
+# 👋 Hi, I’m [Tan Bima Wiragama](https://github.com/Zangetsu21)
 <!-- https://shields.io/ https://simpleicons.org/ https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center"><br/>
- <a href="https://www.linkedin.com/in/timothy-william-james/">
-  <img src="https://img.shields.io/badge/linkedin-Timothy%20James-blue?style=flat-square&logo=linkedin">
+ <a href="https://www.linkedin.com/in/tanbimawira/">
+  <img src="https://img.shields.io/badge/linkedin-Tan%20Bima%20Wiragama-blue?style=flat-square&logo=linkedin">
  </a>
- <a href="mailto:tim.james.work9800@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tim.james.work9800%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
+ <a href="mailto:tanbimawiragama@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tanbimawiragama%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white">
  </a>
  <a href="https://timjames.dev/blog">
   <img src="https://img.shields.io/badge/Blog-timjames.dev%2Fblog-006400?style=flat-square&logo=devdotto&logoColor=white">
@@ -21,19 +21,18 @@ You can click the Preview link to take a look at your changes.
 
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
-- 🌐 Check out my [website](https://timjames.dev/ "timjames.dev")
-- 👨‍💼 **Software Engineer** at [Agile Digital](https://github.com/agiledigital "Agile Digital Website")
-- 🎓 **Bachelor of Information Technology** at the [Australian National University](https://www.anu.edu.au/ "ANU")
-- 📄 View my **certifications** on [Credly](https://www.credly.com/users/timjames/badges "Credly")
-- 📫 How to reach me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "tan-bima-wiragama") || [Twitter](https://twitter.com/TimWJames "@TimWJames")
+- 👨‍💼 **Cohort** at [Bangkit Academy 2024 By Google, GoTo, Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning "Bangkit Website")
+- 🎓 **Bachelor of Information Technology** at the [Bogor Agricultural University](https://cs.ipb.ac.id/ "CS IPB")
+- 📄 View my **certifications** on [Credly](https://www.credly.com/users/tan-bima-wiragama "Credly")
+- 📫 How to reach me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "Tan Bima Wiragama") || [Instagram](https://www.instagram.com/tanbimawira/ "@tanbimawira")
 - 🗺️ Located in **Banten, Indonesia**
 - 📝 [Blog](https://dev.to/timwjames)
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/Zangetsu21/">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+<a href="https://github.com/Zangetsu21">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Zangetsu21&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Zangetsu21&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
 
@@ -47,8 +46,6 @@ You can click the Preview link to take a look at your changes.
 | 2023 | [timjames.dev](https://github.com/Tim-W-James/timjames.dev "Project Repo") | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-React%20Redux-black?style=flat-square&logo=redux) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions) |
 
 <br>
-
-Find more on [timjames.dev/projects](https://timjames.dev/projects)
 
 ---
 
