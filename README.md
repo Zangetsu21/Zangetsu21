@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/Zangetsu21">
+<a href="https://github.com/Zangetsu21/">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
 </a>
@@ -45,20 +45,6 @@ You can click the Preview link to take a look at your changes.
 | Year | Title                                    | Technologies                           |
 |------|------------------------------------------|----------------------------------------|
 | 2023 | [timjames.dev](https://github.com/Tim-W-James/timjames.dev "Project Repo") | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![React](https://img.shields.io/badge/-React%20JS-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-React%20Redux-black?style=flat-square&logo=redux) ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass) ![Storybook](https://img.shields.io/badge/-Storybook-black?style=flat-square&logo=storybook) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Github Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions) |
-| 2022 | [Finance Tracking Tooling](https://github.com/Tim-W-James/finance-tooling "Project Repo") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
-| 2022 | [MQTT Analyser](https://github.com/Tim-W-James/mqtt-analyser "Project Repo") | ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![MQTT](https://img.shields.io/badge/-MQTT-black?style=flat-square&logo=mqtt) |
-| 2021 | [ANU TechLauncher VR Group Project](https://github.com/VR-Observatory/SidingSpringObservatory "Project Repo") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) ![Oculus](https://img.shields.io/badge/-Oculus-black?style=flat-square&logo=oculus) ![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender) ![Premiere](https://img.shields.io/badge/-Premiere-black?style=flat-square&logo=adobepremierepro)|
-| 2021 | [Distributed Concurrent Communication System](https://github.com/Tim-W-James/gliding-in-space "Project Repo") | ![Ada](https://img.shields.io/badge/-Ada-black?style=flat-square)|
-| 2021 | [Machine Learning Data Visualizations & Analysis](https://github.com/Tim-W-James/Python-Data-Reference-Code "My Python Reference Code") | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite) ![scikit-learn](https://img.shields.io/badge/-scikit%20learn-black?style=flat-square&logo=scikitlearn) |
-| 2020 | [GPS Android App Game](https://github.com/Tim-W-James/Java-GPS-Android-Game) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) |
-| 2020 | [Digital Synthesizer ADSR Envelope](https://github.com/Tim-W-James/ARMv7-Digital-Synthesizer-ADSR) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
-| 2020 | [Synchronous Serial Message Passing](https://github.com/Tim-W-James/ARMv7-Synchronous-Serial-Message-Passing) | ![ARMv7 Assembly](https://img.shields.io/badge/-ARMv7%20Assembly-black?style=flat-square) |
-| 2019 | [Interactive Procedurally Generated Text Experience](https://github.com/Tim-W-James/JavaScript-Interactive-Procedural-Text-Experience) | ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![p5js](https://img.shields.io/badge/-p5.js-black?style=flat-square&logo=p5dotjs) |
-| 2019 | [Block Puzzle Game](https://github.com/Tim-W-James/Java-Block-Puzzle-Game) | ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=red) ![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square) |
-| 2019 | [Minimax AI for Sushi Go](https://github.com/Tim-W-James/Sushi-Go-AI) | ![Haskell](https://img.shields.io/badge/-Haskell-black?style=flat-square&logo=haskell) |
-| 2018 | [2D Game Level Procedural Generation](https://github.com/Tim-W-James/Time-Travel-Roguelite-Game "Part of a Larger Project") | ![Unity3D](https://img.shields.io/badge/-Unity3D-black?style=flat-square&logo=unity) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp) |
-| 2018 | [Raspberry Pi Weather System](https://github.com/Tim-W-James/Raspberry-Pi-Weather-Station) | ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-black?style=flat-square&logo=raspberrypi&logoColor=red) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) |
-| 2018 | [Rover with Autonomous Mapping](https://github.com/Tim-W-James/Arduino-Autonomous-Rover) | ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino) |
 
 <br>
 
