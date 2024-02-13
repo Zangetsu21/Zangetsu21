@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes.
 <!-- https://www.webfx.com/tools/emoji-cheat-sheet/ -->
 
 - 👨‍💼 **Cohort** at [Bangkit Academy 2024 By Google, GoTo, Traveloka](https://grow.google/intl/id_id/bangkit/?tab=machine-learning "Bangkit Website")
-- 🎓 **Bachelor of Information Technology** at the [Bogor Agricultural University](https://cs.ipb.ac.id/ "CS IPB")
+- 🎓 **Bachelor of Computer Science** at the [Bogor Agricultural University](https://cs.ipb.ac.id/ "CS IPB")
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/tan-bima-wiragama "Credly")
-- 📫 How to reach me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "Tan Bima Wiragama") || [Instagram](https://www.instagram.com/tanbimawira/ "@tanbimawira")
+- 📫 How to **reach** me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "Tan Bima Wiragama") || [Instagram](https://www.instagram.com/tanbimawira/ "@tanbimawira")
 - 🗺️ Located in **Banten, Indonesia**
 - 📝 [Blog]()
 
