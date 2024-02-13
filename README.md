@@ -29,15 +29,9 @@ You can click the Preview link to take a look at your changes.
 - 🗺️ Located in **Canberra, Australia**
 - 📝 [Blog](https://dev.to/timwjames)
 
-Passionate about software development, writing code, and making things happen.
-<br>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tim-W-James&theme=tokyonight&count_private=true&langs_count=8&layout=compact&hide=ASP.NET,ShaderLab,c,Jupyter%20Notebook,Ada)
-<!-- ![Tim's github stats](https://github-readme-stats.vercel.app/api/?username=Tim-W-James&show_icons=true&theme=tokyonight&count_private=true&hide_rank=true&line_height=24) --> <!--&hide=contribs -->
-
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/penuliscode">
+<a href="https://github.com/Zangetsu21">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
 </a>
