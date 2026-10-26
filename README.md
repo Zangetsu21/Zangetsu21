@@ -26,7 +26,6 @@ You can click the Preview link to take a look at your changes.
 - 📄 View my **certifications** on [Credly](https://www.credly.com/users/tan-bima-wiragama "Credly")
 - 📫 How to **reach** me: [Email](mailto:tanbimawiragama@gmail.com "tanbimawiragama@gmail.com") || [LinkedIn](https://www.linkedin.com/in/tanbimawira/ "Tan Bima Wiragama") || [Instagram](https://www.instagram.com/tanbimawira/ "@tanbimawira")
 - 🗺️ Located in **Banten, Indonesia**
-- 📝 [Blog]()
 
 ### Github Statistic
 <p align="left">
